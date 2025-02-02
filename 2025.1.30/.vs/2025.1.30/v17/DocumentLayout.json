@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Git code\\daily-code\\2025.1.30\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{21408EC1-C801-47DB-B579-2536C169FFBA}|2025.1.30.vcxproj|D:\\Git code\\daily-code\\2025.1.30\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21408EC1-C801-47DB-B579-2536C169FFBA}|2025.1.30.vcxproj|solutionrelative:2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21408EC1-C801-47DB-B579-2536C169FFBA}|2025.1.30.vcxproj|D:\\Git code\\daily-code\\2025.1.30\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{21408EC1-C801-47DB-B579-2536C169FFBA}|2025.1.30.vcxproj|solutionrelative:1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "2.c",
+              "DocumentMoniker": "D:\\Git code\\daily-code\\2025.1.30\\2.c",
+              "RelativeDocumentMoniker": "2.c",
+              "ToolTip": "D:\\Git code\\daily-code\\2025.1.30\\2.c",
+              "RelativeToolTip": "2.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-30T03:42:22.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "1.c",
               "DocumentMoniker": "D:\\Git code\\daily-code\\2025.1.30\\1.c",
               "RelativeDocumentMoniker": "1.c",
               "ToolTip": "D:\\Git code\\daily-code\\2025.1.30\\1.c",
               "RelativeToolTip": "1.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-01-29T18:17:28.789Z",
               "EditorCaption": ""

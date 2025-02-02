@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git code\\daily-code\\\u626B\u96F7\u6E38\u620F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABE5F91-855A-4D87-A52C-7C804F1B2866}|\u626B\u96F7\u6E38\u620F.vcxproj|D:\\Git code\\daily-code\\\u626B\u96F7\u6E38\u620F\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9ABE5F91-855A-4D87-A52C-7C804F1B2866}|\u626B\u96F7\u6E38\u620F.vcxproj|solutionrelative:game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABE5F91-855A-4D87-A52C-7C804F1B2866}|\u626B\u96F7\u6E38\u620F.vcxproj|D:\\Git code\\daily-code\\\u626B\u96F7\u6E38\u620F\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9ABE5F91-855A-4D87-A52C-7C804F1B2866}|\u626B\u96F7\u6E38\u620F.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABE5F91-855A-4D87-A52C-7C804F1B2866}|\u626B\u96F7\u6E38\u620F.vcxproj|D:\\Git code\\daily-code\\\u626B\u96F7\u6E38\u620F\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9ABE5F91-855A-4D87-A52C-7C804F1B2866}|\u626B\u96F7\u6E38\u620F.vcxproj|solutionrelative:game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.h",
+              "DocumentMoniker": "D:\\Git code\\daily-code\\\u626B\u96F7\u6E38\u620F\\game.h",
+              "RelativeDocumentMoniker": "game.h",
+              "ToolTip": "D:\\Git code\\daily-code\\\u626B\u96F7\u6E38\u620F\\game.h",
+              "RelativeToolTip": "game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-30T15:44:30.435Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.c",
+              "DocumentMoniker": "D:\\Git code\\daily-code\\\u626B\u96F7\u6E38\u620F\\game.c",
+              "RelativeDocumentMoniker": "game.c",
+              "ToolTip": "D:\\Git code\\daily-code\\\u626B\u96F7\u6E38\u620F\\game.c",
+              "RelativeToolTip": "game.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-30T15:02:25.46Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\Git code\\daily-code\\\u626B\u96F7\u6E38\u620F\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "D:\\Git code\\daily-code\\\u626B\u96F7\u6E38\u620F\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-30T17:19:08.322Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
