@@ -1,0 +1,5 @@
+﻿  2.c
+  3.c
+  正在生成代码...
+D:\Git code\daily-code\2025.2.5\2.c(12,1): warning C4716: “count_bit”: 必须返回一个值
+  2025.2.5.vcxproj -> D:\Git code\daily-code\2025.2.5\x64\Debug\2025.2.5.exe

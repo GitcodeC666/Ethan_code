@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C 语言100题", "C 语言100题.vcxproj", "{BF0892B5-A61E-4E09-B53B-0790374F75FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF0892B5-A61E-4E09-B53B-0790374F75FD}.Debug|x64.ActiveCfg = Debug|x64
+		{BF0892B5-A61E-4E09-B53B-0790374F75FD}.Debug|x64.Build.0 = Debug|x64
+		{BF0892B5-A61E-4E09-B53B-0790374F75FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{BF0892B5-A61E-4E09-B53B-0790374F75FD}.Debug|x86.Build.0 = Debug|Win32
+		{BF0892B5-A61E-4E09-B53B-0790374F75FD}.Release|x64.ActiveCfg = Release|x64
+		{BF0892B5-A61E-4E09-B53B-0790374F75FD}.Release|x64.Build.0 = Release|x64
+		{BF0892B5-A61E-4E09-B53B-0790374F75FD}.Release|x86.ActiveCfg = Release|Win32
+		{BF0892B5-A61E-4E09-B53B-0790374F75FD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {005B4542-4293-439F-9395-1E4A55BFA796}
+	EndGlobalSection
+EndGlobal
