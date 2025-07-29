@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Git code\\daily-code\\\u626B\u96F7\u6E38\u620FPLUS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9F6B8D7-119F-4754-8315-F44252F7B112}|\u626B\u96F7\u6E38\u620FPLUS.vcxproj|D:\\Git code\\daily-code\\\u626B\u96F7\u6E38\u620FPLUS\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F9F6B8D7-119F-4754-8315-F44252F7B112}|\u626B\u96F7\u6E38\u620FPLUS.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F9F6B8D7-119F-4754-8315-F44252F7B112}|\u626B\u96F7\u6E38\u620FPLUS.vcxproj|D:\\Git code\\daily-code\\\u626B\u96F7\u6E38\u620FPLUS\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9F6B8D7-119F-4754-8315-F44252F7B112}|\u626B\u96F7\u6E38\u620FPLUS.vcxproj|solutionrelative:game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9F6B8D7-119F-4754-8315-F44252F7B112}|\u626B\u96F7\u6E38\u620FPLUS.vcxproj|D:\\Git code\\daily-code\\\u626B\u96F7\u6E38\u620FPLUS\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F9F6B8D7-119F-4754-8315-F44252F7B112}|\u626B\u96F7\u6E38\u620FPLUS.vcxproj|solutionrelative:game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9F6B8D7-119F-4754-8315-F44252F7B112}|\u626B\u96F7\u6E38\u620FPLUS.vcxproj|D:\\Git code\\daily-code\\\u626B\u96F7\u6E38\u620FPLUS\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F9F6B8D7-119F-4754-8315-F44252F7B112}|\u626B\u96F7\u6E38\u620FPLUS.vcxproj|solutionrelative:game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F9F6B8D7-119F-4754-8315-F44252F7B112}|\u626B\u96F7\u6E38\u620FPLUS.vcxproj|D:\\Git code\\daily-code\\\u626B\u96F7\u6E38\u620FPLUS\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9F6B8D7-119F-4754-8315-F44252F7B112}|\u626B\u96F7\u6E38\u620FPLUS.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +30,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "main.c",
               "DocumentMoniker": "D:\\Git code\\daily-code\\\u626B\u96F7\u6E38\u620FPLUS\\main.c",
               "RelativeDocumentMoniker": "main.c",
               "ToolTip": "D:\\Git code\\daily-code\\\u626B\u96F7\u6E38\u620FPLUS\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-01T15:17:51.045Z",
               "EditorCaption": ""
@@ -49,20 +49,20 @@
               "RelativeDocumentMoniker": "game.c",
               "ToolTip": "D:\\Git code\\daily-code\\\u626B\u96F7\u6E38\u620FPLUS\\game.c",
               "RelativeToolTip": "game.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-01T15:17:49.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "game.h",
               "DocumentMoniker": "D:\\Git code\\daily-code\\\u626B\u96F7\u6E38\u620FPLUS\\game.h",
               "RelativeDocumentMoniker": "game.h",
               "ToolTip": "D:\\Git code\\daily-code\\\u626B\u96F7\u6E38\u620FPLUS\\game.h",
               "RelativeToolTip": "game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-02-01T15:17:47.877Z",
               "EditorCaption": ""
